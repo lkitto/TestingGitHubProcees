@@ -3,3 +3,4 @@ Lisa Kitto Created while logged in as webdev.
 Christina Harris edited this line.
 This is List commiting without changing the user settings.
 This is Lisa committing after changing username and email on git config.
+This time I will change user.name only and keep email.
